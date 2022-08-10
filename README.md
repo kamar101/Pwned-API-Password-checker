@@ -20,11 +20,11 @@ should be provided.
 
 <p>
 Run the script:  python3 script.py password <i>filepath</i> <br/>
-<img src="https://imgur.com/B1Xpdan.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/5RjEsbz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Wait for the process to complete:  <br/>
-<img src="https://imgur.com/eb9fSsX.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://imgur.com/Z8emHyA.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 </p>
 <br />
