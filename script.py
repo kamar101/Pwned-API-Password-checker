@@ -39,7 +39,7 @@ def useText():
 
 def finish(count):
 	if count > 0:
-		print (f'Not Good!!! Your password appered {count} times. Please for the love of God use a better one :)')
+		print (f'Not Good!!! Your password appered {count} times. Please for the love of God use a better one')
 	else:
 		print(f'Good Job! Your password hasn\'t been hacked yet ')
 
